@@ -1,0 +1,7 @@
+{
+    "input": "cyan",
+    "conv3x3-bn-relu": "red",
+    "maxpool3x3": "blue",
+    "conv1x1-bn-relu": "green",
+    "output": "yellow"
+}
